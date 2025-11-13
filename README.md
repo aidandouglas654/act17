@@ -1,6 +1,7 @@
 # act17
 
 A new Flutter project.
+For Professor Henry/Professor Henry's TAs: I was present in class 11/12/2025.
 
 ## Getting Started
 
